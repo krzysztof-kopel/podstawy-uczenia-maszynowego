@@ -3,6 +3,7 @@
 ## Spis treści
 
 * [Modele liniowe (linear models)](lab1)
+* [Modele oparte o sąsiedztwo (nearest neighbors)](lab2)
 
 ## Setup
 
