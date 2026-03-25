@@ -27,6 +27,7 @@ dependencies = [
     "tqdm",
     "xgboost",
     "umap-learn",
+    "pandas-stubs~=2.2.3",
 ]
 
 [dependency-groups]
