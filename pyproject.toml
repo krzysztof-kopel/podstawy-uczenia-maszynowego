@@ -30,6 +30,7 @@ dependencies = [
     "pandas-stubs~=2.2.3",
     "scipy-stubs~=1.15.2",
     "ipykernel>=6.29.5",
+    "usearch==2.23.0",
 ]
 
 [dependency-groups]
