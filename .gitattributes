@@ -1,3 +1,4 @@
 lab4/Liver_GSE14520_U133A.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
 lab7/tracks.csv filter=lfs diff=lfs merge=lfs -text
 lab7/artists.csv filter=lfs diff=lfs merge=lfs -text
